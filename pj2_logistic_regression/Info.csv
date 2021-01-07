@@ -1,0 +1,321 @@
+No,性別_Gender,年齡_Age,共病症_Comorbidities,三個月內曾使用過抗生素_Used antibiotics within 3 months,三個月內曾長過的細菌_Bacteria grown in 3 months,Target
+12584,1,44,1,Tenofovir alafenamide,0,1
+82244,2,75,1,"Cephradine,po",0,0
+90395,2,92,0,0,0,0
+113952,2,42,0,0,0,0
+146267,1,41,2,"Darunavir,po,Emtricitabine+Tenofovir,po,Ritonavir,po,Cephradine,po,Metronidazole,po,Amoxicillin+clavulanic acid,po,Darunavir 800mg + cobicistat 150mg,po",0,0
+192963,2,73,1,"Cefixime,Cefmetazole",0,0
+215556,1,56,0,0,0,1
+242708,1,67,4,0,0,0
+243537,2,79,0,"Sultamicillin,Cefazolin,Cephradine,po",Escherichia coli,0
+327492,2,86,0,"Moxifloxacin,Ceftazidime,Ertapenem Sod,Cefoperazone+Sulbactam,Sultamicillin,Levofloxacin",0,0
+415731,1,66,0,"Ciprofloxacin,po,Ertapenem Sod",0,1
+430652,1,91,0,0,0,1
+457992,1,76,1,0,0,0
+496874,1,51,1,"Ceftibuten,po,Ampicillin+sulbactam,Fluconazole,Piperacillin+Tazobactam,Sultamicillin,po,Fluconazole,po",Yeast-like,0
+514536,2,77,0,0,0,1
+519993,1,64,0,0,0,1
+558982,2,56,0,0,0,0
+559748,2,85,0,"Cefoperazone+Sulbactam,Ceftazidime,Cefmetazole,Cefaclor,po",Escherichia coli,1
+706952,2,59,1,0,0,1
+774872,2,70,1,0,0,0
+837316,2,43,0,0,0,1
+897893,2,66,"1,2",0,0,0
+1040867,1,72,1,0,0,0
+1066093,2,61,1,0,0,1
+1074405,1,88,"1,4","Cefazolin,Cephradine,po,Ceftriaxone,Teicoplanin,Fusidate sod,po,Rifampin,po,Cefixime,po,Cefoperazone+Sulbactam","Staphylococcus aureus (MRSA),Klebsiella pneumoniae ssp pneumoniae,Enterococcus faecalis",0
+1097816,1,70,1,0,0,0
+1103706,2,85,0,0,0,0
+1112452,2,90,1,"Cefmetazole,CefazolinCephradine,po",Escherichia coli,0
+1132983,1,81,1,0,0,0
+1145982,1,78,0,0,0,0
+1148453,2,94,0,"Cefixime,Levofloxacin",0,0
+1177174,2,62,1,0,0,0
+1193847,2,55,0,0,0,1
+1240318,2,75,1,0,0,0
+1349352,2,44,0,0,0,0
+1366023,2,59,1,0,0,0
+1422467,1,63,0,"Cefazolin,Clindamycin,Amoxycillin",0,0
+1424873,2,59,0,"Levofloxacin,Cefazolin,Cephradine,po",Escherichia coli,0
+1427114,2,65,2,0,0,0
+1441842,2,67,1,0,0,0
+1470173,1,86,0,Minocycline,0,0
+1489904,2,70,"1,2",0,0,0
+1500572,2,86,0,Cefazolin,0,0
+1511184,2,68,1,"Cefmetazole,Ertapenem Sod",0,0
+1543844,1,86,0,"Cefmetazole,Levofloxacin",Staphylococcus epidermidis,0
+1563621,2,66,2,Cephradine,0,0
+1615023,1,80,4,"Ampicillin+sulbactam,Cefepime,Piperacillin+Tazobactam,Levofloxacin,Linezolid","Staphylococcus aureus (MRSA),Pseudomonas aeruginosa",0
+1675788,2,86,0,0,0,0
+1681534,2,82,"1,4","Levofloxacin,Cephradine,Cefaclor,po,Cefmetazole,Ertapenem Sod,Piperacillin+Tazobactam,Cefoperazone+Sulbactam",Achromobacter denitrificans,0
+1746263,1,63,"1,4",0,0,0
+1809304,2,63,2,Amoxycillin,0,0
+1815953,1,84,0,"Ceftbutwn,po,Ertapenem Sod",0,0
+1930082,2,45,0,Doxycycline,0,0
+1950162,1,71,1,0,0,0
+2029063,2,86,1,0,0,0
+2072733,2,91,0,0,0,0
+2106784,1,74,0,0,0,0
+2143954,1,42,0,0,0,1
+2152293,1,76,1,0,0,0
+2213944,2,55,1,0,0,0
+2242358,2,50,1,0,0,0
+2270273,2,56,0,Cephradine,0,0
+2293182,2,83,0,0,0,0
+2341168,1,39,0,"Cephradine,po,Levofloxacin,po,Ertapenem Sod,Moxifloxacin,Imipenem+cilastatin,Fusidate sod,po",Escherichia coli,0
+2371473,1,86,1,Levofloxacin,,0
+2390406,1,54,2,Trimethoprim,0,0
+2390782,2,88,0,0,0,0
+2426264,1,87,"1,2","Levofloxacin,Cefixime",Escherichia coli,0
+2529906,2,74,0,"Cephradine,po",0,0
+2534936,2,69,0,"Cephradine,po,Amoxicillin,Oseltamivir",0,0
+2536753,2,80,1,0,0,0
+2566656,2,76,1,"Ceftriaxone,Cefmetazole,Cefixime,po",0,0
+2576704,2,70,1,0,0,0
+2591382,2,84,2,0,0,0
+2618593,1,82,0,0,0,0
+2646454,1,86,0,0,0,1
+2745253,1,80,0,0,0,0
+2793083,1,63,1,"Ceftazidime,Tigecycline,Fusidate sod,po,Levofloxacin,po,Moxifloxacin,po",0,0
+2917964,1,43,4,Cefixime,Klebsiella pneumoniae ssp pneumoniae,0
+2972692,1,69,0,"Cephradine,po,Cefazolin",0,0
+2981995,2,90,0,"Cephradine,po",Escherichia coli,0
+3080734,2,40,0,0,0,0
+3121294,2,26,0,0,0,0
+3215633,2,86,1,"Piperacillin+Tazobactam,Cephradine",Yeast-like,0
+3240985,2,80,2,"Gemifloxacin,,po,Amoxicillin+clavulanic acid,po,Cephradine,po",Escherichia coli,0
+3305103,1,77,"1,2",0,Escherichia coli,0
+3312893,2,54,1,"Fluconazole,Sertaconazole,Triamcinolone acetonide,Cefixime,Ceftriaxone,Cefmetazole,Cefaclor",Yeast-like,0
+3321867,2,69,"1,2","Levofloxacin,po,Cefixime,Ceftriaxone,Cefmetazole","Escherichia coli,Pseudomonas aeruginosa",0
+3340683,1,65,0,Cefazolin,Citrobacter koseri,1
+3395194,2,84,1,"Cefazolin,Cefmetazole,Cefaclor","Escherichia coli,Morganella morganii ssp morganii",0
+3413683,2,64,2,"Cephradine,po,Amoxicillin,po,Cefazolin,Cefmetazole,Cefixime,po,Ertapenem Sod,Levofloxacin,po,Ceftriaxone",Escherichia coli,0
+3461975,2,73,1,0,0,0
+3506334,2,91,0,0,0,0
+3524713,2,86,1,"Ertapenem Sod,Ceftibuten,Cafaclor,po,Levofloxacin,po",0,0
+3549782,2,73,1,0,0,0
+3558382,1,75,"1,2,4","Ceftibuten,Cefmetazole,Cefaclor,po",Providencia stuartii,0
+3593276,2,82,2,0,0,0
+3595842,2,61,"1,2","Cefazolin,Vancomycin,Cephradine,po","Salmonella group C1,Escherichia coli",0
+3679162,2,35,0,"Amoxicillin+clavulanic acid,Cefmetazole,Moxifloxacin Hydrochloride,Ceftriaxone,Metronidazole",0,1
+3717664,2,57,2,"Entecavir,po,Flomoxef,Ertapenem Sod,Moxifloxacin,po,Cefoperazone+Sulbactam,Imipenem+cilastatin,Levofloxacin,po,Acyclovir","Escherichia coli,Salmonella group D1(non typhi)",1
+3726117,2,74,1,0,Escherichia coli,0
+3751134,2,41,4,"Cefixime,po",0,0
+3870884,2,39,0,"Levofloxacin,po",0,0
+3898854,2,81,1,0,0,0
+3983637,2,87,0,Amoxicillin,0,0
+4009764,1,89,0,"Piperacillin+Tazobactam,Levofloxacin,Moxifloxacin,Sultamicillin",0,0
+4022154,2,80,"1,2",0,0,0
+4062793,2,74,2,0,0,0
+4063703,2,72,0,0,0,1
+4113404,2,54,1,"Ceftriaxone,Cefixime,po,Cefmetazole,Fluconazole,Cafaclor,po,Cefazolin",0,0
+4193573,1,68,2,0,0,0
+4201642,1,86,"1,2,4","Cefazolin,Cephradine,po",0,0
+4227724,2,64,4,"Cephradine,Cefixime,Cefoperazone+Sulbactam,Piperacillin+Tazobactam,Levofloxacin,Sultamicillin",Klebsiella pneumoniae ssp pneumoniae,0
+4288705,2,56,0,"Cephradine,po",0,0
+4288721,2,49,4,"Cephradine,po,Oseltamivir",0,1
+4304876,2,82,"1,2",0,0,0
+4312864,1,76,1,"Levofloxacin,Cephradine,Cefixime,Cefmetazole,Cefixime",0,1
+4400097,1,75,0,"Cefaclor,po,Levofloxacin,po",Escherichia coli,0
+4401504,2,89,1,0,0,0
+4521766,2,78,0,0,0,1
+4678934,2,90,4,"Cefoperazone+Sulbactam,Levofloxacin,po",0,0
+4699933,1,84,0,"Ampicillin+sulbactam,Sultamicillin",0,0
+4744872,2,90,1,0,0,0
+4777293,1,27,0,0,0,0
+4838133,1,59,0,"Levofloxacin,po,Ertapenem Sod,Cefixime,po,Sultamicillin,po",Escherichia coli,0
+4858483,1,60,1,0,0,0
+4907716,2,77,0,0,0,0
+4979334,1,74,4,"Cefoperazone+Sulbactam,Sultamicillin,Piperacillin+Tazobactam,Levofloxacin,Ertapenem Sod,Cefaclor","Proteus mirabilis,Escherichia coli,Staphylococcus capitis,Pseudomonas aeruginosa",0
+5005147,1,87,"1,4","Ceftriaxone,Ceftazidime,Cephradine,po","Proteus mirabilis,Staphylococcus pettenkoferi",1
+5046043,1,79,1,"Levofloxacin,Ertapenem Sod,Cefazolin,Cephradine,Sultamicillin",Klebsiella pneumoniae ssp pneumoniae,1
+5081963,2,82,0,0,0,0
+5091034,2,82,"1,4","Levofloxacin,Cephradine,Cefaclor,Cefmetazole,Ertapenem Sod,	Piperacillin+Tazobactam",Achromobacter denitrificans,0
+5109653,2,89,0,0,0,0
+5121557,1,66,"1,4","Cephradin,po",0,1
+5145733,2,67,0,0,0,0
+5149172,2,34,0,Cefazolin,0,0
+5156995,2,90,1,0,0,0
+5280173,2,64,1,0,0,1
+5302878,1,39,0,"Moxifloxacin,Imipenem+cilastatin,Fusidate sod,po,Ertapenem Sod",Escherichia coli,0
+5312123,2,76,1,"Ceftibuten,po,Cefixime,po",0,0
+5390438,2,75,1,0,0,0
+5391834,2,66,0,0,0,0
+5394472,2,85,"1,4","Ceftazidime,Levofloxacin","Escherichia coli,Pseudomonas aeruginosa,Enterococcus faecalis",1
+5437774,2,45,0,0,0,0
+5439744,2,66,1,"Flomoxef,Cefmetazole,Levofloxacin,Ceftazidime,Oseltamivir","Candida albicans,Klebsiella pneumoniae ssp pneumoniae",0
+5449704,2,58,1,0,0,0
+5553094,2,82,1,"Cefazolin,Flomoxef,Piperacillin+Tazobactam,Cefixime,Cefoperazone+Sulbactam,Ciprofloxacin,Meropenem,Cephradine","Proteus mirabilis,Klebsiella pneumoniae ssp pneumoniae,Staphylococcus epidermidis",0
+5614527,1,70,0,"Cephradine,po",0,0
+5659482,2,82,0,0,,1
+5667983,2,61,0,0,0,0
+5708294,2,68,0,0,0,0
+5724762,1,83,1,Levofloxacin,0,0
+5776895,2,77,"1,2","Ciprofloxacin,po",0,0
+5800094,2,65,0,0,0,0
+5833833,2,83,1,"Piperacillin+Tazobactam,Cefmetazole,Ceftazidime,Cefixime,Levofloxacin",Pseudomonas aeruginosa,0
+5875493,2,77,1,Doxycycline,0,0
+5944724,2,81,1,Cephradine,"Escherichia coli,Klebsiella pneumoniae ssp pneumoniae",0
+5948438,2,79,0,0,0,0
+5957096,2,68,1,0,0,1
+5987293,2,86,0,"Moxifloxacin,Amoxicillin+clavulanic acid",0,0
+6009608,2,81,"2,4","Cephradine,po,Cefixime,po,Ciprofloxacin,po,Fluconazole,po,Tigecycline,Meropenem","Enterococcus faecium (VRE),Candida albicans,Klebsiella pneumoniae ssp pneumoniae,Klebsiella pneumoniae ssp ozaenae",1
+6032906,2,86,1,0,0,0
+6095072,1,71,4,"Amoxicillin+clavulanic acid,Amoxicillin+clavulanic acid,po,Cefmetazole,Levofloxacin,Ertapenem Sod,Ampicillin+sulbactam,Sultamicillin,po","Enterococcus faecalis,Citrobacter koseri,Escherichia coli",1
+6103273,2,69,0,"Ciprofloxacin,Levofloxacin,po",Pseudomonas aeruginosa,1
+6115862,2,41,0,0,0,0
+6168553,2,89,1,0,0,0
+6179273,2,77,"1,4","Levofloxaci,po",0,0
+6216954,2,52,0,"Cefoperazone+Sulbactam,,Levofloxacin,Cefixime,Cefazolin,Cefmetazole,Cefaclor,po","Morganella morganii ssp morganii,Proteus mirabilis",0
+6221363,2,59,1,0,0,0
+6283707,2,81,0,"Sultamicillin,po",0,0
+6344923,1,75,"1,2",0,0,0
+6397631,2,94,4,"Levofloxacin,Amoxicillin+clavulanic acid,Azithromycin,Moxifloxacin",0,0
+6426648,2,85,0,"Flomoxef,Levofloxacin,po",0,0
+6467985,2,74,0,0,0,1
+6480928,1,76,0,"Levofloxacin,Meropenem,Teicoplanin","Enterococcus faecium,Staphylococcus caprae",1
+6512187,2,91,4,"Flomoxef,Cefmetazole,Ceftazidime,Levofloxacin,po,Moxifloxacin,Oxacillin Sodium,Dicloxacillin sod","Pseudomonas aeruginosa,Escherichia coli,Staphylococcus capitis",0
+6567682,2,70,1,"Cephradine,po",0,0
+6612206,2,68,2,0,0,1
+6658298,2,90,0,0,0,0
+6696248,1,39,0,"Ceftibuten,Cephradine,po,Levofloxacin,po",Escherichia coli,1
+6696274,1,41,2,Doxycycline,0,0
+6740813,1,77,"1,2","Cefazolin,Ertapenem Sod,Levofloxacin",Escherichia coli,0
+6878904,1,79,0,0,0,0
+6883233,2,65,1,0,0,0
+6906958,2,89,0,"Ceftriaxone,Ertapenem Sod,Meropenem,Cefmetazole,Cefaclor,po",0,1
+6991137,2,83,"2,4","Cephradine,po,Levofloxacin,po,Ciprofloxacin,po","Pseudomonas putida,Pseudomonas aeruginosa",1
+6995862,1,40,0,"Flomoxef,Cefmetazole,Ceftibuten,Triamcinolone acetonide,Sertaconazole,Cephradine","Proteus mirabilis,Escherichia coli",0
+7150956,2,76,"1,2","Piperacillin+Tazobactam,Flomoxef,Metronidazole,po,Metronidazole,po,Dicloxacillin sod",0,0
+7174682,1,78,4,0,0,0
+7193762,1,89,1,"Cephradine,po","Escherichia coli,Pseudomonas putida",0
+7225954,1,80,2,"Cefixime,Cefmetazole",0,0
+7251433,2,64,0,0,0,0
+7312734,2,63,1,0,0,1
+7399095,2,42,0,Nystatin,0,0
+7437716,2,57,0,"Trimethoprim,Amikacin,Cefmetazole,Ertapenem Sod,Ceftibuten",Escherichia coli,1
+7454757,2,91,0,0,0,0
+7653536,2,77,0,0,0,0
+7678563,2,82,2,"Cephradine,po,Levofloxacin,Cefmetazole,Piperacillin+Tazobactam,Ceftazidime","Candida albicans,Cyberlindnera fabianii,Staphylococcus epidermidis",0
+7683121,2,86,0,Cefazolin,0,1
+7685356,2,61,1,"Amoxicillin+clavulanic acid,Amoxicillin+clavulanic acid,po,Oseltamivir,po",0,0
+7745962,1,70,0,0,0,1
+7813952,2,60,1,0,0,0
+7816452,1,60,"1,4","Cephradine,po,Fusidate sod,Ceftazidime,Cefoperazone+Sulbactam",Pseudomonas aeruginosa,1
+7843173,2,95,2,Cephradine,0,0
+7886913,2,88,0,0,0,0
+7938203,2,73,"1,4","Cephradine,po",0,0
+7944403,2,39,1,0,0,0
+7984742,2,81,1,0,0,0
+8005262,2,65,2,0,0,0
+8018184,2,63,1,"Ertapenem Sod,AcyclovirPiperacillin+Tazobactam,Cefoperazone+Sulbactam,Oseltamivir,Cephradine,Flomoxef",,0
+8046114,1,90,0,"Cefazolin,Ampicillin+sulbactam,Sultamicillin",Klebsiella pneumoniae ssp pneumoniae,0
+8049704,2,85,1,"Cefepime,Piperacillin+Tazobactam,Colistimethate,Tigecycline,Sultamicillin,Levofloxacin,Teicoplanin ,Cefepime,Imipenem+cilastatin","Klebsiella pneumoniae ssp pneumoniae,Acinetobacter baumannii,Staphylococcus capitis",0
+8105772,2,60,1,0,0,0
+8137053,2,55,1,Cephradine,0,0
+8179754,2,86,0,Trimethoprim,0,0
+8186094,1,56,2,"Ciprofloxacin,Ceftazidime,Cefepime",0,0
+8187913,1,40,0,0,0,0
+8191524,2,81,0,0,0,0
+8256583,2,64,1,Levofloxacin,Escherichia coli,0
+8276714,2,69,4,Cefazolin,0,0
+8286054,2,72,2,"Cefoperazone+Sulbactam,Ampicillin+sulbactam,Cefazolin,Cephradine,Cefmetazole",0,0
+8338205,2,89,0,Famciclovir,0,0
+8371252,2,72,"1,4","Ceftibuten,po",0,0
+8399434,2,26,0,0,0,0
+8473141,2,73,1,Amoxicillin,0,0
+8498542,1,87,0,0,0,0
+8500533,2,56,"1,4","Piperacillin+Tazobactam,Ertapenem Sod",Escherichia coli,1
+8529728,2,87,0,0,,0
+8561382,1,68,0,0,0,1
+8564192,2,89,0,"Cefazolin,Cephradine,po,Cefmetazole",Escherichia coli,0
+8613804,2,44,0,0,0,0
+8616592,2,80,"1,4",0,0,0
+8643577,2,31,0,"Hydroxychloroquine,po,Ciprofloxacin,po,Ceftriaxone,Cefaclor,po",0,1
+8705563,1,77,0,"Famciclovir,po",0,1
+8746882,2,77,1,0,0,0
+8754292,2,86,0,"Cefmetazole,Ceftibuten,po",Escherichia coli,0
+8772906,2,73,0,"Amoxicillin+clavulanic acid,po,Ceftibuten,Ceftriaxone",0,0
+8862627,2,88,"1,2,4","Ceftibuten,Cefazolin,Cephradine,po,Levofloxacin,po,Piperacillin+Tazobactam,Ceftazidime,Teicoplanin,Cefixime,po","Candida albicans,Enterococcus faecium",0
+8947883,1,58,1,0,0,1
+9092423,2,34,0,0,0,0
+9097584,1,88,0,0,0,0
+9158313,2,32,1,"Cefazolin,Cephradine",0,0
+9183037,2,76,1,0,0,0
+9206823,2,77,"1,4","Cefazolin,Cephradine,po,Cefmetazole,Cefaclor,po",Escherichia coli,0
+9270241,2,86,0,0,0,1
+9274163,2,33,0,0,0,0
+9290154,2,75,2,Hydroxychloroquine,0,1
+9333148,2,88,0,"Flomoxef ,Piperacillin+Tazobactam,Moxifloxacin,Oseltamivir","Proteus mirabilis,Staphylococcus aureus (MRSA),Escherichia coli,",0
+9346892,2,89,1,"Cefazolin,Cefmetazole,Levofloxacin,Ertapenem Sod,Dicloxacillin sod,Fluconazole","Staphylococcus aureus,Candida albicans,Klebsiella pneumoniae ssp pneumoniae,Escherichia coli",0
+9371816,1,62,0,"Cefazolin,Ertapenem Sod,Ceftibuten,po,Ceftriaxone",0,1
+9454821,2,82,1,"Cefazolin,Cephradine,po",0,1
+9573336,2,87,"1,4","SMZ/TMP,po,Cefazolin,Ceftibuten,po,Fluconazole,po,Levofloxacin,po,	Ertapenem Sod,Flomoxef","Klebsiella pneumoniae ssp pneumoniae,Candida tropicalis,Enterobacter cloacae ssp cloacae",1
+9590392,2,75,4,"Cefmetazole,Colistimethate,Levofloxacin,Ertapenem Sod,Fluconazole,Piperacillin+Tazobactam,Oseltamivir,po,Imipenem+cilastatin","Candida albicans,Candida glabrata,Escherichia coli,Yeast-like,Proteus mirabilis,Enterococcus faecium",0
+9595852,2,75,"1,2","Ertapenem Sod,Vancomycin","Providencia stuartii,Citrobacter koseri",0
+9621444,2,87,4,"Ceftriaxone,Cefixime,po,Piperacillin+Tazobactam,Vancomycin",Enterococcus faecium,0
+9629393,1,66,1,0,0,0
+9643673,2,81,"1,2",0,0,0
+9647784,1,45,2,"Ciprofloxacin,Vancomycin,Amoxicillin+clavulanic acid,Cefmetazole,Levofloxacin","Proteus mirabilis,Escherichia coli",0
+9663803,2,76,0,0,0,0
+9682114,1,22,0,0,0,0
+9756936,2,51,1,"Cephradine,po,Fusidate sod,Ceftriaxone,Cefazolin",0,0
+9759806,1,62,"2,4","Cefazolin,Cefmetazole,Ceftibuten",0,1
+9850344,1,89,4,0,0,0
+9908262,2,90,1,0,0,0
+9946974,2,82,1,"Levofloxacin,Piperacillin+Tazobactam,Tigecycline,Ertapenem Sod","Escherichia coli,Enterococcus faecalis,Candida tropicalis,Candida glabrata,Yeast-like,Klebsiella pneumoniae ssp pneumoniae,Proteus mirabilis",1
+12272121,2,99,1,"Cefmetazole,Ertapenem Sod,Cefixime",0,0
+12639131,2,86,"1,4",0,0,0
+15191321,2,62,1,0,0,1
+18399721,1,93,"1,2",0,0,0
+20058521,2,46,2,Sultamicillin,0,0
+21769631,1,58,2,"SMZ/TMP,Sultamicillin,Famciclovir,Levofloxacin,Ertapenem Sod,Cephradine,Cefixime,Doxycycline",Klebsiella pneumoniae ssp pneumoniae,0
+22085521,1,80,"1,2","Cefepime,Ceftazidime,Meropenem,Cefoperazone+Sulbactam,Amphotericin B deoxycholate,Imipenem+cilastatin,Levofloxacin,Ciprofloxacin,Metronidazole","Candida albicans,Enterobacter cloacae ssp cloacae",0
+23168031,2,65,1,0,0,1
+23426621,2,24,0,"Nystatin,Ciprofloxacin,Amoxicillin,Ceftibuten",0,0
+25248031,2,50,0,0,0,1
+25410231,1,54,0,"Emtricitabine+ Tenofovir 300mg+ Rilpivirine 25mg,",0,0
+26984221,2,64,2,"Unifradine,cefazolin,Levofloxacin",0,0
+28319811,2,60,2,"Cefixime,Cephradine,po,Amoxicillin+clavulanic acid",0,0
+32505041,1,89,0,"Cephradine,po",0,1
+34300721,2,75,4,"Sultamicillin,Ampicillin+sulbactam,Piperacillin+Tazobactam,Cephradine,Ertapenem Sod,Ciprofloxacin",Klebsiella pneumoniae ssp pneumoniae,1
+41417121,1,78,1,0,0,1
+42410141,2,60,"2,4","Cefazolin,Cephradine,Cefixime",0,0
+42945621,1,62,"1,4","Ertapenem Sod,Cefmetazole,Amikacin,Norfloxacin","Escherichia coli,Pseudomonas aeruginosa",0
+46482621,2,37,0,"Doxycycline,po",0,1
+47002731,1,82,2,0,0,0
+52326821,2,68,2,Amoxicillin,0,1
+52552231,2,89,"1,2",0,0,0
+52780131,2,39,0,0,0,0
+52782431,1,57,0,"Levofloxacin,Erythromycin Estolate,Vancomycin","Pseudomonas aeruginosa,Corynebacterium striatum",1
+54032911,2,76,"1,4",0,0,0
+56535021,2,82,1,"Cefazolin,Ceftriaxone,Cefmetazole,Piperacillin+Tazobactam",0,0
+57269911,2,77,2,"Ceftriaxone,Amoxicillin+clavulanic acid,Levofloxacin","Candida albicans,Pseudomonas aeruginosa",1
+57653021,2,71,"1,4","Ceftazidime,Cefixime",Enterococcus faecium,0
+57666021,2,71,0,0,0,1
+58034141,1,87,4,0,0,0
+58612931,2,78,0,"Cephradine,Amoxicillin+clavulanic acid","Enterococcus faecalis,Klebsiella pneumoniae ssp pneumoniae",0
+61309911,2,86,0,"Cefazolin,Cephradine,po",Escherichia coli,1
+61861231,2,51,0,0,0,1
+65912621,2,65,4,"Doxycycline,Piperacillin+Tazobactam,Ertapenem Sod,Oxacillin Sodium,Imipenem+cilastatin",0,0
+66444331,1,81,4,"Piperacillin+Tazobactam,Imipenem+cilastatin,Levofloxacin","Candida albicans,Pseudomonas aeruginosa,Staphylococcus epidermidis",0
+69882321,2,91,"1,4","Cefazolin,Cephradine",Escherichia coli,0
+71091931,1,86,1,0,0,1
+71358021,2,71,"1,4","Piperacillin+Tazobactam,Levofloxacin,Teicoplanin,Imipenem+cilastatin",Escherichia coli,1
+77248031,2,51,1,0,0,1
+77532421,2,32,0,Cefixime,"Escherichia coli,Staphylococcus haemolyticus",0
+79180931,2,87,"1,4","Cefixime,po,Piperacillin+Tazobactam,Tigecycline",Escherichia coli,1
+80235621,2,70,2,"Amoxicillin+clavulanic acid,po",0,1
+80970521,1,66,0,"Trimethoprim,Ciprofloxacin,po",0,1
+81657921,1,67,0,Cefazolin,0,0
+82917021,2,21,0,0,0,0
+83087521,2,66,0,0,0,1
+85597721,2,50,2,Cephradine,0,0
+85799421,2,62,1,0,0,1
+86608731,2,66,"1,2,4",Dicloxacillin sod,0,0
+88092921,2,67,0,0,0,1
+89837721,2,75,0,0,0,1
+90073821,2,40,1,"Cefazolin,Piperacillin+Tazobactam,SMZ/TMP,po,Valganciclovir,po,Ciprofloxacin,po,Cefixime,po,Cephradine",Candida glabrata,1
+95012241,2,64,0,0,0,1
+97192721,1,57,4,0,0,1
+98043021,2,82,0,0,0,1
